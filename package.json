@@ -1,0 +1,24 @@
+{
+  "name": "create-ned-app",
+  "version": "1.0.0",
+  "description": "Create Express apps with Docker support.",
+  "bin": {
+    "create-ned-app": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiorivera50/create-ned-app.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "sriveralopez50@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiorivera50/create-ned-app/issues"
+  },
+  "homepage": "https://github.com/sergiorivera50/create-ned-app#readme"
+}
